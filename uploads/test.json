@@ -1,1 +1,6 @@
-test
+{
+    "cities": [
+    ]
+    "usedMultiCityInput": false,
+    "startTimeMs": 0
+}
